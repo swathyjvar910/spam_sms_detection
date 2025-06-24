@@ -1,6 +1,6 @@
 # 📩 SMS Spam Classifier (ML-based)
 
-This project is a machine learning-based SMS spam detection system that classifies messages as **Spam** or **Ham (Legitimate)** using natural language processing (NLP) and scikit-learn models.
+A machine learning-based SMS spam detection system that classifies text messages as **Spam** or **Ham (Legitimate)** using natural language processing (NLP) and scikit-learn models. This project also includes a user-friendly **Streamlit web interface** for real-time message classification.
 ## 🧠 ML Techniques Used
 
 - **Text Preprocessing**: Lowercasing, punctuation & digit removal
